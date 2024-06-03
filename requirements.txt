@@ -1,0 +1,7 @@
+discord
+asyncio
+valve
+python-valve
+ipinfo
+requests
+python-a2s

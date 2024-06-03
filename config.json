@@ -1,0 +1,30 @@
+{
+    "command_prefix": "!",
+    "token": "BOT_TOKEN",
+    "servers": [
+        {
+            "name": "SERVER NAME 1",
+            "ip": "IP",
+            "port": PORT,
+            "connect_link": "connect IP:PORT",
+            "message_id": 
+        },
+        {
+            "name": "SERVER NAME 2",
+            "ip": "IP",
+            "port": PORT,
+            "connect_link": "connect IP:PORT",
+            "message_id": 
+        },
+		{
+			"name": "SERVER NAME 3",
+            "ip": "IP",
+            "port": PORT,
+            "connect_link": "connect IP:PORT",
+            "message_id": 
+		}
+    ],
+    "status_channel_id": 0000000000000000000,
+    "maps_path": "maps",
+    "ipinfo_token": "ipinfo.io"
+}
